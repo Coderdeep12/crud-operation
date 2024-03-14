@@ -1,0 +1,15 @@
+table,th,td{
+    border: 2px solid black;
+    padding-right: 10px;
+}
+
+
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+label{
+    margin-right: 10px;
+}
